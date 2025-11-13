@@ -3,11 +3,15 @@ Electronic files accompanying the article : Intermolecular interactions behind t
 
 ## Atomic coordinates
 Atomic coordinates of the optimized complexes, halogens and their respective adducts can be found within the repository. 
-The files for the atomic coordinates of the complexes and the adducts are labelled as \n
-    \tLigand_HalogenLigand\n
-and\n
-    \tLigand_HalogenLigand_Position_X2species\n
-respectively\n
+The files for the atomic coordinates of the complexes and the adducts are labelled as
+
+    Ligand_HalogenLigand\n
+
+and
+
+    Ligand_HalogenLigand_Position_X2species\n
+
+respectively
 
 where the Ligand is either the phosphine, isocyanide or N-heterocyclic carbene being investigated, the HalogenLigand is the Br, Cl ir I atom coordinated to the metal centre, the X2species is the Br2, Cl2 or I2 species which is used to form an adducts with the metal complex and the position is the whether the X2 species was initial placed at the metal centre or the HalogenLigand prior to geometry optimisation.
 
