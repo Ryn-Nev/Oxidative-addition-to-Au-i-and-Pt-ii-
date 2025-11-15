@@ -17,3 +17,6 @@ where the **Ligand** is either the phosphine, isocyanide or N-heterocyclic carbe
 
 
 _Note: all xyz files contain the energy of the strucutre along with the 3 lowest (IR) vibrational frequencies of the strucuture._
+
+## EDA results
+EDA results for the optimised adducts are also available as csv files. The labelling is the same as above.
