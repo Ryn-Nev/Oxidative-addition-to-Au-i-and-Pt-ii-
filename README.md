@@ -20,3 +20,6 @@ _Note: all xyz files contain the energy of the strucutre along with the 3 lowest
 
 ## EDA results
 EDA results for the optimised adducts are also available as csv files. The labelling is the same as above.
+
+## Plots 
+Plots present in the article and ESI are available as high quality.
